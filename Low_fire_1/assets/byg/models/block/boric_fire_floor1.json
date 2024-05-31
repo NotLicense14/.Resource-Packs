@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_fire_floor",
+  "textures": {
+    "fire1": "byg:block/boric_fire_1",
+    "fire": "byg:block/boric_fire_2"
+  }
+}

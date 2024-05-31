@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_fire_side",
+    "textures": {
+        "particle": "endergetic:block/ender_fire_2",
+        "fire": "endergetic:block/ender_fire_2"
+    }
+}
