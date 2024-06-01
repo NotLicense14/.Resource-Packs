@@ -107,6 +107,4450 @@
 			"chars": [
 				"\ueef3"
 			]
+		},
+
+
+// Stylized ToolTips
+
+// Swords
+		{
+			"type": "bitmap",
+			"file": "minecraft:tooltip/netherite_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE000"
+            ]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE001"
+            ]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE002"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE003"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stone_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE004"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wooden_sword.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE005"
+			]
+		},
+// Weapon Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/wooden.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE006"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/stone.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE007"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/iron.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE008"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/golden.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE009"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/diamond.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/netherite.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00B"
+			]
+		},
+// Food Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/food/food.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/food/rare.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/food/epic.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00E"
+			]
+		},
+// Utility Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/utility.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE00F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/wooden.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE010"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/stone.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE011"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/iron.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE012"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/golden.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE013"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/diamond.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE014"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/utility/netherite.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE015"
+			]
+		},
+// Drink Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/drink/drink.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE016"
+			]
+		},
+// Axes
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE017"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE018"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE019"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stone_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wooden_axe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01C"
+			]
+		},
+// Pickaxes
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE01F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE020"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stone_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE021"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wooden_pickaxe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE022"
+			]
+		},
+// Shovels
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE025"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE026"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE027"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE028"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stone_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE029"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wooden_shovel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE02A"
+			]
+		},
+// Hoes
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE02D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE02E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE02F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE030"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stone_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE031"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wooden_hoe.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE032"
+			]
+		},
+// Flint and Steel, Shears, Brush, Spyglass
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/flint_and_steel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE033"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/shears.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE034"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/brush.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE035"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/spyglass.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE036"
+			]
+		},
+// Trident, 
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trident.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE037"
+			]
+		},
+// Material Badges
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/copper.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE038"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/diamond.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE039"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/emerald.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE03A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/gold.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE03B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/iron.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE03C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/netherite.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE03D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/amethyst.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE044"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/material/lapis.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE045"
+			]
+		},
+// Ingots Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/copper_ingot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE03E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE03F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/emerald.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE040"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/gold_ingot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE041"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_ingot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE042"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_ingot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE043"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/amethyst_shard.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE046"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/lapis_lazuli.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE047"
+			]
+		},
+// Armor Badges
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/chainmail.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE048"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/diamond.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE049"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/gold.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE04A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/iron.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE04B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/leather.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE04C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/netherite.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE04D"
+			]
+		},
+// Armor Icons
+// Chainmail
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chainmail_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE04E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chainmail_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE04F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chainmail_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE050"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chainmail_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE051"
+			]
+		},
+// Leather
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE052"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE053"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE054"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE055"
+			]
+		},
+// Iron
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE056"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE057"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE058"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE059"
+			]
+		},
+// Golden
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05D"
+			]
+		},
+// Diamond
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE05F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE060"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE061"
+			]
+		},
+// Netherite
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_boots.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE062"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_chestplate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE063"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE064"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_leggings.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE065"
+			]
+		},
+// Clock, Lead, Bone Meal, Compass, Recovery Compass
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/clock.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE066"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/lead.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE067"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/bone_meal.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE068"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/compass.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE069"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/recovery_compass.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06A"
+			]
+		},
+// Armor Stand, Elytra, Ender Pearl
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/armor_stand.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/elytra.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ender_pearl.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ender_eye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06E"
+			]
+		},
+// Turtle Helmet, Totem of Undying, Snow Ball, Egg
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/turtle_helmet.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE06F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/totem_of_undying.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE070"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/snowball.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE071"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/egg.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE072"
+			]
+		},
+// Turtle Helmet Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/armor/green.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE073"
+			]
+		},
+// Trim Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/stone.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE074"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/nether.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE075"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/desert.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE076"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/end.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE077"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/stone_moss.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE078"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/suspicious.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE079"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/deepdark.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE07A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/ocean.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE08C"
+			]
+		},
+// Trim Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/coast_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE07B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/dune_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE07C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/eye_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE07D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/host_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE07E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/raiser_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE07F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/rib_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE080"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/sentry_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE081"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/shaper_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE082"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/silence_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE083"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/snout_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE084"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/spire_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE085"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/tide_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE086"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/vex_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE087"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/ward_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE088"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/wayfinder_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE089"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/wild_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE08A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/netherite_upgrade_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE08B"
+			]
+		},
+// Experience Bottle Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/experience_bottle.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE08D"
+			]
+		},
+// Mobs Icons - Section 1
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/allay.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE08E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/axolotl.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE08F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/bee.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE090"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/camel.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE091"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/cat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE092"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/cow.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE093"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/creeper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE094"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/ender_dragon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE095"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/enderman.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE096"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/polarbear.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE097"
+			]
+		},
+// Shield, Arrow, Spectral Arrow Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/shield.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE098"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/arrow.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE099"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/spectral_arrow.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE09A"
+			]
+		},
+// Destroy Item Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/common/destroy.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE09B"
+			]
+		},
+// Enchantment Book, Book, Writable Book Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchanted_book.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE09C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/book.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE09D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/writable_book.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE09E"
+			]
+		},
+// ToolTip Food Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/food-icon.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE09F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/demifood-icon.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE0A0"
+			]
+		},
+// All Foods Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/apple.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/baked_potato.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/beetroot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/beetroot_soup.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/bread.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cake.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/carrot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chorus_fruit.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_chicken.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0A9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_cod.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_mutton.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_porkchop.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_rabbit.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_salmon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cookie.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0AF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/dried_kelp.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_apple.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glow_berries.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_carrot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/honey_bottle.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/melon_slice.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mushroom_stew.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/poisonous_potato.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/potato.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/pufferfish.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0B9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/pumpkin_pie.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/rabbit_stew.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/beef.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chicken.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cod.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mutton.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0BF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/porkchop.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/rabbit.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/salmon.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/rotten_flesh.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/spider_eye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cooked_beef.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/suspicious_stew.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sweet_berries.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/tropical_fish.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C8"
+			]
+		},
+// Enchantments Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0C9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/protection.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/efficiency.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/aqua_affinity.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/feather_falling.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/flame.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/fire_aspect.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0CF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/enchantments/fire_protection.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D0"
+			]
+		},
+// Fishing Rod, Blaze Rod, All Buckets Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/fishing_rod.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blaze_rod.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/axolotl_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/cod_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/lava_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/milk_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/powder_snow_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/pufferfish_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0D9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/salmon_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0DA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/tadpole_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0DB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/tropical_fish_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0DC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/buckets/water_bucket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0DD"
+			]
+		},
+// Sherd Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/sherd/sherd.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE0DE"
+			]
+		},
+// Sherds Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/angler_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0DF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/archer_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/arms_up_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/blade_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/brewer_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/burn_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/danger_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/explorer_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/friend_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/heart_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/heartbreak_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0E9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/howl_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0EA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/miner_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0EB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/mourner_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0EC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/plenty_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0ED"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/prize_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0EE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/sheaf_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0EF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/shelter_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/skull_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/snort_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F2"
+			]
+		},
+// Coal, Charcoal, Raw Iron, Raw Copper, Raw Gold, Quartz, Netherite Scrap Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/coal.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/charcoal.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/raw_iron.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/raw_copper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/raw_gold.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/quartz.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/netherite_scrap.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0F9"
+			]
+		},
+// Flint, Iron Nugget, Gold Nugget Icon
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/flint.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_nugget.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/gold_nugget.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FC"
+			]
+		},
+// Icon in Creative Tabs
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/building.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/colored.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/combat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE0FF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/food.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE100"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/ingredients.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE101"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/natural.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE102"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/operator.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE103"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/redstone.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE104"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/saved_hotbars.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE105"
+			]
+		},
+		// {
+        //     "type": "bitmap",
+		// 	"file": "minecraft:tooltip/creative_tabs/search.png",
+		// 	"ascent": 8,
+		// 	"height": 9,
+		// 	"chars": [
+		// 		"\uE106"
+		// 	]
+		// },
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/spawn_eggs.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE107"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/tools.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE108"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/fonctional.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE109"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/creative_tabs/survival_inventory.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE10A"
+			]
+		},
+// Mobs Icons - Section 2
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/blaze.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE10B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/chicken.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE10C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/fox.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE10D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/squid.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE10E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/glow_squid.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE10F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/sniffer.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE120"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/warden.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE121"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/pig.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE122"
+			]
+		},
+// End Crystal, Bone, Feather, Blaze Rod, Nether Star Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/end_crystal.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE123"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/bone.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE124"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/feather.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE125"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blaze_rod.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE126"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/nether_star.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE127"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/bow.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE128"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/crossbow.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE129"
+			]
+		},
+// String, Leather, Slime Ball, Rabbit Hide, Fire Charge, Heart of the sea, Echo Shard Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/string.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/rabbit_hide.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/fire_charge.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/heart_of_the_sea.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/echo_shard.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE12F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/slime_ball.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE130"
+			]
+		},
+// Mobs Icons - Section 3
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/panda.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE131"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/vex.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE132"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/evoker.png",
+			"ascent": 7,
+			"height": 9,
+			"chars": [
+				"\uE133"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/ravager.png",
+			"ascent": 9,
+			"height": 12,
+			"chars": [
+				"\uE134"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/frog.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE135"
+			]
+		},
+// Firework Rocket, Ink Sac, Glow Ink Sac, Nautilus Shell, Wheat, Honeycomb, Clay Ball, Prismarine Shard, Primarine Crystals, Shulker Shell, Disc Fragment 5 Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/firework_rocket.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE136"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ink_sac.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE137"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glow_ink_sac.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE138"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/nautilus_shell.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE139"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wheat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/honeycomb.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/clay_ball.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/prismarine_shard.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/prismarine_crystals.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/shulker_shell.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE13F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/disc_fragment_5.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE140"
+			]
+		},
+// Blocks Icons - S1
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/tnt.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE141"
+			]
+		},
+// Scute, Popped Chorus Fruit, Bowl, Brick, Nether Wart, Dragon Breath, Blaze Powder - Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/turtle_scute.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE142"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/popped_chorus_fruit.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE143"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/bowl.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE144"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/brick.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE145"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/nether_wart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE146"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/dragon_breath.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE147"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blaze_powder.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE148"
+			]
+		},
+// Sugar, Magma Cream, Ghast Tear, Name Tag, Saddle, Stick, Paper, Glass Bottle - Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sugar.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE149"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/magma_cream.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ghast_tear.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/name_tag.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/saddle.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/stick.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/paper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE14F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glass_bottle.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE150"
+			]
+		},
+// Light Source Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_01.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE152"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_02.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE153"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_03.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE154"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_04.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE155"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_05.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE156"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_06.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE157"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_07.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE158"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_09.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE15A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_10.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE15B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_12.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE15D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_13.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE15E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_14.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE15F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_15.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE160"
+			]
+		},
+// Carrot and Warped Fungus on a Stick, Horn
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/carrot_on_a_stick.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE161"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/warped_fungus_on_a_stick.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE162"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/goat_horn.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE163"
+			]
+		},
+// All Boats
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/acacia_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE164"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/acacia_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE165"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/birch_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE166"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/birch_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE167"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/cherry_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE168"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/cherry_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE169"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/dark_oak_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/dark_oak_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16B"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/jungle_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/jungle_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/mangrove_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/mangrove_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE16F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/oak_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE170"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/oak_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE171"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/spruce_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE172"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/spruce_chest_boat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE173"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/bamboo_raft.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE174"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/boats/bamboo_chest_raft.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE175"
+			]
+		},
+// All Minecarts
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chest_minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE176"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/command_block_minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE177"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/furnace_minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE178"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/hopper_minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE179"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/tnt_minecart.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17B"
+			]
+		},
+// Painting, Ladder, Chain, Flower Pot, Item Frame, Glow Item Frame
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/painting.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ladder.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/chain.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/item_frame.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE17F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glow_item_frame.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE180"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/flower_pot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE181"
+			]
+		},
+// Mobs Icons - Section 4
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/bat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE182"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/cave_spider.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE183"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/dolphin.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE184"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/drowned.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE185"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/elder_guardian.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE186"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/guardian.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE187"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/endermite.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE188"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/ghast.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE189"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/goat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE18A"
+			]
+		},
+// Block Badge
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/blocks/block.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE18B"
+			]
+		},
+// Doors Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/acacia_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE18C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/bamboo_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE18D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/birch_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE18E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/cherry_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE18F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/copper_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE190"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/crimson_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE191"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/dark_oak_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE192"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/exposed_copper_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE193"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/iron_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE194"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/jungle_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE195"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/mangrove_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE196"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/oak_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE197"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/oxidized_copper_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE198"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/spruce_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE199"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/warped_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19A"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/doors/weathered_copper_door.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19B"
+			]
+		},
+// Blocks
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/crafter.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19C"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/chiseled_copper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19D"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/exposed_chiseled_copper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19E"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/weathered_chiseled_copper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE19F"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/oxidized_chiseled_copper.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/copper_bulb.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/exposed_copper_bulb.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/weathered_copper_bulb.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/oxidized_copper_bulb.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/trial_spawner.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/copper_trapdoor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/exposed_copper_trapdoor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/weathered_copper_trapdoor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/oxidized_copper_trapdoor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1A9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/copper_grate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/exposed_copper_grate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/weathered_copper_grate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/oxidized_copper_grate.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/chiseled_tuff.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/chiseled_tuff_bricks.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1AF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/polished_tuff.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/tuff_bricks.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B1"
+			]
+		},
+// Discs Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_5.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_11.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_13.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_blocks.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_cat.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_chirp.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_far.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_mall.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1B9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_mellohi.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_otherside.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_pigstep.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_relic.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_stal.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_strad.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1BF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_wait.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/discs/music_disc_ward.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C1"
+			]
+		},
+// Items Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trial_key.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/diamond_horse_armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/golden_horse_armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/iron_horse_armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/leather_horse_armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C6"
+			]
+		},
+// Mobs Icons - Section 5
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/armadillo.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/breeze.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C8"
+			]
+		},
+// Items Icons
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wolf_armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1C9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/black_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blue_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/brown_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/cyan_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/gray_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/green_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1CF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_blue_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/light_gray_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/lime_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/magenta_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/orange_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/pink_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/purple_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/red_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/white_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/yellow_dye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1D9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/banner_pattern.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/armadillo_scute.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/nether_brick.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/firework_star.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DD"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/redstone.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DE"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glowstone_dust.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1DF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/gunpowder.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/fermented_spider_eye.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/rabbit_foot.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/glistering_melon_slice.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/phantom_membrane.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/vault.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/wind_charge.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/map.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E7"
+			]
+		},
+// Mobs Section
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/bogged.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/stray.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1E9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/wither_skeleton.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1EA"
+			]
+		},
+// Items - Blocks
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/blocks/heavy_core.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1EB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/breeze_rod.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1EC"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mace.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1ED"
+			]
+		},
+// Badges - S4
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/weapon/wind.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE1EE"
+			]
+		},
+// Mobs Section
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/wolf.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1EF"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/hoglin.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F0"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/horse.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F1"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ominous_bottle.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F2"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/ominous_trial_key.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F3"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/iron_golem.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F4"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/mobs/llama.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F5"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/flow_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F6"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/guster_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F7"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/sherds/scrape_pottery_sherd.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F8"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/bolt_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1F9"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:tooltip/trim/flow_armor_trim_smithing_template.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uE1FA"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/flow.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE1FB"
+			]
+		},
+		{
+            "type": "bitmap",
+			"file": "minecraft:badges/trim/bolt.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uE1FC"
+			]
 		}
 	]
 }

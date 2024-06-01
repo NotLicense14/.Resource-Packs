@@ -39,6 +39,7 @@ Done!!
 | Connected Hotbar | Beastly | Removes hotbar dividers | https://modrinth.com/resourcepack/connected-hotbar-(dark) |
 | Custom Tabs | Dartcat25, edited by UneaseLicense14 | Changes tabs icons in creative inventory. | https://modrinth.com/resourcepack/custom-tabs | 
 | Large Roman Numerals | Twixxi | This resource pack adds all the missing Roman Numerals up to 255, which is the highest possible using commands in the vanilla game. | https://modrinth.com/resourcepack/large-roman-numerals |
+| Stylized ToolTips | GabrielDja | This Resource Pack adds Badges/Icons and Color to Item ToolTips. | https://modrinth.com/resourcepack/tooltips-stylized |
 
 ## Better Items
 | Resource Pack | Creator | Creator Description | Link |
